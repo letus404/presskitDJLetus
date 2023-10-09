@@ -1,0 +1,29 @@
+html {
+    font-size: 50%;
+}
+
+header figure img {
+    width: 30px;
+    height: 30px;
+}
+
+header ul a {
+    padding: 10px;
+    font-size: 1rem;
+}
+main {
+    font-size: 1.6rem;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.biografia {
+    width: 400px;
+    top: 150px;
+}
+
+#music {
+    height: 300px;
+}
